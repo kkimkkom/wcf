@@ -1,0 +1,7 @@
+C:\Users\kkimk\Desktop\CLASS\LEVEL9\PROG3170\wcf\wcf\CalculatorPractice\CalculatorPractice\bin\CalculatorPractice.dll.config
+C:\Users\kkimk\Desktop\CLASS\LEVEL9\PROG3170\wcf\wcf\CalculatorPractice\CalculatorPractice\bin\CalculatorPractice.dll
+C:\Users\kkimk\Desktop\CLASS\LEVEL9\PROG3170\wcf\wcf\CalculatorPractice\CalculatorPractice\bin\CalculatorPractice.pdb
+C:\Users\kkimk\Desktop\CLASS\LEVEL9\PROG3170\wcf\wcf\CalculatorPractice\CalculatorPractice\obj\Debug\CalculatorPractice.csproj.AssemblyReference.cache
+C:\Users\kkimk\Desktop\CLASS\LEVEL9\PROG3170\wcf\wcf\CalculatorPractice\CalculatorPractice\obj\Debug\CalculatorPractice.csproj.CoreCompileInputs.cache
+C:\Users\kkimk\Desktop\CLASS\LEVEL9\PROG3170\wcf\wcf\CalculatorPractice\CalculatorPractice\obj\Debug\CalculatorPractice.dll
+C:\Users\kkimk\Desktop\CLASS\LEVEL9\PROG3170\wcf\wcf\CalculatorPractice\CalculatorPractice\obj\Debug\CalculatorPractice.pdb

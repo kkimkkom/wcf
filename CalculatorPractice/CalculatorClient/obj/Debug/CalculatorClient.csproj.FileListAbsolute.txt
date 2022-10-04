@@ -1,0 +1,7 @@
+C:\Users\kkimk\Desktop\CLASS\LEVEL9\PROG3170\wcf\wcf\CalculatorPractice\CalculatorClient\bin\Debug\CalculatorClient.exe.config
+C:\Users\kkimk\Desktop\CLASS\LEVEL9\PROG3170\wcf\wcf\CalculatorPractice\CalculatorClient\bin\Debug\CalculatorClient.exe
+C:\Users\kkimk\Desktop\CLASS\LEVEL9\PROG3170\wcf\wcf\CalculatorPractice\CalculatorClient\bin\Debug\CalculatorClient.pdb
+C:\Users\kkimk\Desktop\CLASS\LEVEL9\PROG3170\wcf\wcf\CalculatorPractice\CalculatorClient\obj\Debug\CalculatorClient.csproj.AssemblyReference.cache
+C:\Users\kkimk\Desktop\CLASS\LEVEL9\PROG3170\wcf\wcf\CalculatorPractice\CalculatorClient\obj\Debug\CalculatorClient.csproj.CoreCompileInputs.cache
+C:\Users\kkimk\Desktop\CLASS\LEVEL9\PROG3170\wcf\wcf\CalculatorPractice\CalculatorClient\obj\Debug\CalculatorClient.exe
+C:\Users\kkimk\Desktop\CLASS\LEVEL9\PROG3170\wcf\wcf\CalculatorPractice\CalculatorClient\obj\Debug\CalculatorClient.pdb
