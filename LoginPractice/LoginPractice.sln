@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginPractice", "LoginPractice\LoginPractice.csproj", "{D8AF8358-CF26-44D5-98FE-DD7255063E87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginClient2", "LoginClient2\LoginClient2.csproj", "{7EF53AF0-042D-4FE6-8703-7B0603960DDC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D8AF8358-CF26-44D5-98FE-DD7255063E87} = {D8AF8358-CF26-44D5-98FE-DD7255063E87}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8AF8358-CF26-44D5-98FE-DD7255063E87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8AF8358-CF26-44D5-98FE-DD7255063E87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8AF8358-CF26-44D5-98FE-DD7255063E87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8AF8358-CF26-44D5-98FE-DD7255063E87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EF53AF0-042D-4FE6-8703-7B0603960DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EF53AF0-042D-4FE6-8703-7B0603960DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EF53AF0-042D-4FE6-8703-7B0603960DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EF53AF0-042D-4FE6-8703-7B0603960DDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEB4B947-D17F-4AED-B841-EC657237A1E9}
+	EndGlobalSection
+EndGlobal

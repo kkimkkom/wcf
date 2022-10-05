@@ -1,0 +1,6 @@
+C:\Users\kkimk\Desktop\CLASS\LEVEL9\PROG3170\wcf\wcf\LoginPractice\LoginPractice\bin\LoginPractice.dll.config
+C:\Users\kkimk\Desktop\CLASS\LEVEL9\PROG3170\wcf\wcf\LoginPractice\LoginPractice\bin\LoginPractice.dll
+C:\Users\kkimk\Desktop\CLASS\LEVEL9\PROG3170\wcf\wcf\LoginPractice\LoginPractice\bin\LoginPractice.pdb
+C:\Users\kkimk\Desktop\CLASS\LEVEL9\PROG3170\wcf\wcf\LoginPractice\LoginPractice\obj\Debug\LoginPractice.csproj.CoreCompileInputs.cache
+C:\Users\kkimk\Desktop\CLASS\LEVEL9\PROG3170\wcf\wcf\LoginPractice\LoginPractice\obj\Debug\LoginPractice.dll
+C:\Users\kkimk\Desktop\CLASS\LEVEL9\PROG3170\wcf\wcf\LoginPractice\LoginPractice\obj\Debug\LoginPractice.pdb

@@ -1,0 +1,6 @@
+C:\Users\kkimk\Desktop\CLASS\LEVEL9\PROG3170\wcf\wcf\LoginPractice\LoginClient2\bin\Debug\LoginClient2.exe.config
+C:\Users\kkimk\Desktop\CLASS\LEVEL9\PROG3170\wcf\wcf\LoginPractice\LoginClient2\bin\Debug\LoginClient2.exe
+C:\Users\kkimk\Desktop\CLASS\LEVEL9\PROG3170\wcf\wcf\LoginPractice\LoginClient2\bin\Debug\LoginClient2.pdb
+C:\Users\kkimk\Desktop\CLASS\LEVEL9\PROG3170\wcf\wcf\LoginPractice\LoginClient2\obj\Debug\LoginClient2.csproj.CoreCompileInputs.cache
+C:\Users\kkimk\Desktop\CLASS\LEVEL9\PROG3170\wcf\wcf\LoginPractice\LoginClient2\obj\Debug\LoginClient2.exe
+C:\Users\kkimk\Desktop\CLASS\LEVEL9\PROG3170\wcf\wcf\LoginPractice\LoginClient2\obj\Debug\LoginClient2.pdb

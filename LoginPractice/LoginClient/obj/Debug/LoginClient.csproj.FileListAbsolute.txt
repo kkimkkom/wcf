@@ -1,0 +1,1 @@
+C:\Users\kkimk\Desktop\CLASS\LEVEL9\PROG3170\wcf\wcf\LoginPractice\LoginClient\obj\Debug\LoginClient.csproj.CoreCompileInputs.cache
